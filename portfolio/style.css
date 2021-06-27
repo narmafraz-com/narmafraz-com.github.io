@@ -237,6 +237,11 @@ body {
 
 /* CARD */
 
+.portfolio__link {
+    text-decoration: none;
+    color: var(--color-grey);
+}
+
 .portfolio__card {
     display: block;
     width: 100%;
